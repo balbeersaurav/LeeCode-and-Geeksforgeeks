@@ -2,7 +2,7 @@ package geeksforgeeks;
 
 public class checkIfArrayIsSorted {
     
-    public static boolean IsSorted(int[] arr){
+    public static boolean IsSorted(int[] arr){  
         boolean check = true;
         int i=0;
         while (i<arr.length-1) {
