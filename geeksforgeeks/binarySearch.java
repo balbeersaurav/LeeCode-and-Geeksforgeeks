@@ -23,7 +23,7 @@ public class binarySearch {
 
     public static void main(String[] args) {
         int[] arr = new int[] { 1, 1, 1, 1, 2};
-        int k = 2;
+        int k = 1;
 
         int result = findElement(arr, k);
 
