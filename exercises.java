@@ -1,8 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 
 public class exercises {
 
@@ -90,7 +86,7 @@ public class exercises {
         list.add(0,6);
         System.out.println(list.get(1));
         list.set(0, 0);
-        list.remove("f");
+        list.remove(4);
         System.out.println(list);
 
         // HashSet<Integer> set = new HashSet<>();
